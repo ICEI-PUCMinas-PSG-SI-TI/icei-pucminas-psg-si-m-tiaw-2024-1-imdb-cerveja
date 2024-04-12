@@ -30,7 +30,9 @@ O objetivo principal deste trabalho é um site de avaliações de bebidas alcoó
 Como objetivos específicos, podemos ressaltar:
 
 A interação do usuário com o site de forma totalmente segura e eficaz.
+
 Poder espalhar essas avaliações na internet trazendo cada vez mais pessoas para visualizar e poder avaliar também.
+
 Facilitar ao usuário a avalição de qualquer lugar usando apenas a internet
 
 ## Justificativa
