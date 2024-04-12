@@ -32,3 +32,17 @@ Como objetivos específicos, podemos ressaltar:
 A interação do usuário com o site de forma totalmente segura e eficaz.
 Poder espalhar essas avaliações na internet trazendo cada vez mais pessoas para visualizar e poder avaliar também.
 Facilitar ao usuário a avalição de qualquer lugar usando apenas a internet
+
+## Justificativa
+
+Um site de IMDB de cerveja seria uma adição valiosa ao cenário digital, especialmente para um trabalho acadêmico, por várias razões. Primeiramente, a cerveja é uma parte significativa da cultura mundial, com uma variedade incrível de estilos, sabores e tradições. Um IMDB de cerveja forneceria um recurso centralizado para estudantes e entusiastas explorarem essa diversidade, aprendendo sobre diferentes cervejas, suas origens históricas, processos de fabricação e características sensoriais.
+
+Além disso, a análise crítica e as revisões detalhadas presentes em um IMDB de cerveja ofereceriam insights valiosos para os estudantes que buscam compreender não apenas o produto final, mas também o contexto cultural, econômico e tecnológico que envolve a produção e consumo de cerveja. Isso poderia enriquecer pesquisas acadêmicas sobre temas como história da alimentação, economia agrícola, marketing de bebidas, entre outros.
+
+Além disso, um IMDB de cerveja poderia servir como uma plataforma interativa para comunidades de estudantes e profissionais da área compartilharem conhecimentos, experiências e opiniões sobre cervejas específicas, eventos cervejeiros e tendências do mercado. Isso promoveria o networking e a colaboração entre os interessados no campo da cervejaria.
+
+Em resumo, um site de IMDB de cerveja ofereceria uma combinação única de recursos educacionais, análises críticas e interação social, tornando-o uma ferramenta valiosa para pesquisas acadêmicas sobre a cultura cervejeira e seus aspectos relacionados.
+
+## Publico alvo
+
+O público-alvo acima de 18 anos de um IMDB de cerveja seria composto por apreciadores e entusiastas da cultura cervejeira, desde consumidores casuais até cervejeiros caseiros e profissionais da indústria. Eles buscam informações detalhadas sobre diferentes tipos de cervejas, suas características sensoriais, histórias de fabricação, além de avaliações e recomendações de produtos. Também estão interessados em aprender sobre a história da cerveja, técnicas de produção, eventos e festivais cervejeiros, e tendências no mercado. Este público valoriza a qualidade, a variedade e a experiência sensorial proporcionada pelas diferentes cervejas, e utiliza o IMDB de cerveja como uma ferramenta para aprimorar seu conhecimento e apreciação dessa bebida milenar.
