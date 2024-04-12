@@ -129,3 +129,21 @@ Coloque detalhes sobre o processo de Design Thinking e a implementação do Fram
 - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
 - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+Os primeiros registros da produção de cerveja têm aproximadamente Seis mil
+anos, feita pelos Sumérios (povo da Mesopotâmia), onde 40% dos seus cereais
+eram destinados à fabricação de cerveja. No milênio
+seguinte, após os egípcios aprenderem a produzir a cerveja, tornaram a
+mesma parte de sua dieta diária. O conhecimento sobre a fabricação foi
+passado aos Gregos e posteriormente aos Romanos, que tornaram a
+existência da cerveja mundialmente conhecida .
+
+Atualmente tem-se notado um aumento no consumo de cervejas,
+principalmente uma preferência por cervejas mais sofisticadas, abrindo assim
+um mercado mais amplo para as cervejas artesanais, uma vez que os
+consumidores estão em busca de cervejas de maior qualidade, assim estando
+dispostos a pagarem um preço acima do mercado convencional.
+
+Diante desse auto consumo de cervejas é fundamental que haja um canal
+de informação para o usuário que ele possa avaliar cada cerveja assim ajudando
+outras pessoas a saber qual a melhor cerveja para experimentar.
