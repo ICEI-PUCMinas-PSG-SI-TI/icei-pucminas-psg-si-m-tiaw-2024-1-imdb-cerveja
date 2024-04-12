@@ -48,3 +48,11 @@ Em resumo, um site de IMDB de cerveja ofereceria uma combinação única de recu
 ## Publico alvo
 
 O público-alvo acima de 18 anos de um IMDB de cerveja seria composto por apreciadores e entusiastas da cultura cervejeira, desde consumidores casuais até cervejeiros caseiros e profissionais da indústria. Eles buscam informações detalhadas sobre diferentes tipos de cervejas, suas características sensoriais, histórias de fabricação, além de avaliações e recomendações de produtos. Também estão interessados em aprender sobre a história da cerveja, técnicas de produção, eventos e festivais cervejeiros, e tendências no mercado. Este público valoriza a qualidade, a variedade e a experiência sensorial proporcionada pelas diferentes cervejas, e utiliza o IMDB de cerveja como uma ferramenta para aprimorar seu conhecimento e apreciação dessa bebida milenar.
+
+## Especificação do projeto
+
+O objetivo do projeto é desenvolver um site interativo que permite que usuários avaliem diferentes tipos de cervejas. O site será fácil de utilizar, visualmente atraente e responsivo, além de fornecer informações úteis e relevantes sobre cervejas.
+
+## Personas
+
+
