@@ -247,29 +247,49 @@ Requisitos funcionais e não funcionais
 Para o desenvolvimento de um aplicativo ou um site, deve-se reunir informações para garantir uma execução rápida e bem-sucedida, por isso, é usado os requisitos funcionais, que descreve a funcionalidade específica que um site deve ter formulado pelo público-alvo ou/e pelo cliente; e requisitos não funcionais que deve ser formulado pelos próprios desenvolvedores para obter maior segurança, desempenho, facilidade de uso e confiabilidade.
 
 RF-01	O site deve permitir o uso de logins para a totalidade de seu conteúdo (para realizar avaliações nas cervejas), para aumentar a segurança.-	Alta
+
 RF-02	O site deve conter informações sobre a história e produção da cerveja.- Baixa
-RF-03	O site deve conter um menu na página inicial que contenha todos os conteúdos que encontrara. - édia
+
+RF-03	O site deve conter um menu na página inicial que contenha todos os conteúdos que encontrara. - Média
+
 RF-04	O site deve permitir seguir diferentes usuários, para acompanhar suas avaliações.- Média
+
 RF-05	O site deve permitir favoritar as melhores avaliações que encontrar.-	Média
+
 RF-06	O site deve permitir adicionar comentários nas avaliações.-	Média
+
 RF-07	O site deve ter filtros de idade para ser utilizado.-	Alta
+
 RF-08	O site deve ter informações de onde conseguir comprar as cervejas.-	Baixa
+
 RF-09	O site deve ter frases de moderação ao consumo de bebidas alcoólicas.-	Média
+
 RF-10	O site deve conter instruções de como fabricar cervejas caseiras.-	Baixa
+
 RF-11	O site deve conter os dados de contato, para possíveis ligações por problemas.- 	Média
+
 RF-12	O site deverá ter maneiras de alterar dados cadastrais sem interferência na segurança.-	Alta
+
 RF-13	O site deve conter notícias sobre as premiações nacionais e internacionais de fabricação e degustação de cervejas. -	Baixa
+
 RF-14	O site deve conter locais de divulgação de eventos sobre cerveja.-	Baixa
 
 ## Requisitos não funcionais
 
 RNF-01	O site deve ser de fácil acesso, em plataformas gratuitas e ser simples para fácil entendimento.-	Alta
+
 RNF-02	O site deverá ter um uso confortável em telefone celulares, tablets e outros equipamentos moveis.-	Alta
+
 RNF-03	O site deverá ser simples, direto e chamativo, para facilitar o entendimento e evitar poluição visual.-	Média
+
 RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).-	Alta
+
 RNF-05	O site deverá ter variados tipos de cerveja, e ser possível a inclusão de informações por parte do usuário, para melhor avaliação.-	Alta
+
 RNF-06	O site deverá ser seguro e presar por conter informações corretas, sempre revisado por pares para continuar a ser publicado.-	Alta
+
 RNF-07	O site deve conter a possibilidade de ser executado em inglês.-	Alta
+
 RNF-08	O site deve ser leve, sem muitas paginas redirecionadas.-	Média
 
 ## Restrições
