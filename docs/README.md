@@ -397,7 +397,7 @@ Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e na
 
 Conteúdo - apresenta o conteúdo da tela principal.
 
-Opções secundárias - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+Opções secundárias - apresenta os elementos de navegação secundária, associados aos elementos do bloco de conteúdo.
 
 Cadastro - onde os usuários vão criar suas contas.
 
