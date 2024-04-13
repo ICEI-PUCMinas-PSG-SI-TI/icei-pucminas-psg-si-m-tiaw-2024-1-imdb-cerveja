@@ -379,8 +379,7 @@ Feedback do Cliente: Após a entrega, qualquer feedback do cliente ou usuário �
 
 Análise e Melhoria Contínua: Aqui, discutimos o que funcionou bem, o que pode ser melhorado e quais ajustes podem ser feitos para otimizar nosso fluxo de trabalho.
 
-
-
+(https://trello.com/b/G1UBHb0h/imbd)
 
 ## Projeto de interface
 
