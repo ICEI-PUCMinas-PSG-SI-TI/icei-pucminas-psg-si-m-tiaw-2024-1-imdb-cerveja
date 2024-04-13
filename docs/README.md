@@ -392,6 +392,23 @@ A identidade visual do site será convidativa, terá um esquema de cores focado 
 
 ## Wireframe
 
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura . Nesta estrutura, existem 6 topícos de telas, descritos a seguir. São eles:
+
+Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site.
+
+Conteúdo - apresenta o conteúdo da tela principal.
+
+Opções secundárias - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+
+Cadastro - onde os usuários vão criar suas contas.
+
+Login - onde os usuários vão entrar na sua conta.
+
+Favoritos - vão poder visualisar as cervejas principais deles que mais gostaram.
+
+
+(https://postimg.cc/s1tmb77f)
+
 
 
 
