@@ -74,6 +74,240 @@ Como devemos tratá-la: Com respeito e cordialidade, reconhecendo sua experiênc
 
 Nunca devemos: Subestimar seu conhecimento sobre cervejas ou tratá-la como se fosse iniciante. Usar linguagem condescendente ou infantilizada.
 
+2. Mariana (25 anos)
+
+Hobby: Experimentar drinks e coquetéis, sair com amigos, frequentar eventos sociais.
+
+Sonho: Tornar-se bartender profissional e abrir seu próprio bar.
+
+Trabalho: Estudante de publicidade, faz barman em eventos como freelancer.
+
+Personalidade: Criativa, inovadora, ambiciosa, apaixonada por mixologia e novas experiências.
+
+Objetos e lugares: Usa smartphone para pesquisa, redes sociais, aplicativos de receitas e fotos. Frequenta bares badalados, eventos de degustação e cursos de bartender.
+
+Objetivos chave: Aprender novas receitas de drinks e coquetéis, encontrar combinações inovadoras de sabores, aprimorar suas habilidades como bartender e se conectar com outros profissionais da área.
+
+Como devemos tratá-la: Com entusiasmo e reconhecimento de seu potencial. Oferecer conteúdo criativo e inspirador, além de uma plataforma interativa para troca de experiências e aprendizado.
+
+Nunca devemos: Ignorar suas ideias ou questionar seu talento. Desvalorizar sua experiência por ser jovem ou menos experiente.
+
+3. Eduardo (58 anos)
+
+Hobby: Colecionar cervejas raras, participar de clubes de degustação, ler sobre a história da cerveja.
+
+Sonho: Escrever um livro sobre a história da cerveja no Brasil.
+
+Trabalho: Professor universitário aposentado, dedica-se a seus hobbies e estudos.
+
+Personalidade: Estudioso, detalhista, exigente, apreciador de tradição e qualidade.
+
+Objetos e lugares: Usa computador e tablet para pesquisa, leitura online e fóruns especializados. Frequenta cervejarias tradicionais, eventos de degustação e bibliotecas.
+
+Objetivos chave: Encontrar cervejas raras e exclusivas, ampliar seu conhecimento sobre a história da cerveja, compartilhar suas experiências com outros entusiastas.
+
+Como devemos tratá-la: Com respeito e admiração por seu conhecimento. Oferecer conteúdo informativo e aprofundado, além de uma plataforma que permita a troca de informações entre especialistas.
+
+Nunca devemos: Fornecer informações incompletas ou imprecisas. Desconsiderar sua opinião ou tratá-lo como se não fosse um especialista.
+
+4. Rafael (30 anos)
+
+Hobby: Experimentar destilados diferentes, fazer drinks em casa, reunir amigos para jogos e conversas.
+
+Sonho: Ter sua própria adega de destilados e oferecer experiências sensoriais únicas.
+
+Trabalho: Analista de dados, busca novos hobbies para desestressar.
+
+Personalidade: Introvertido, analítico, curioso, fascinado por sabores e aromas complexos.
+
+Objetos e lugares: Usa smartphone para pesquisa, compras online e aplicativos de receitas. Frequenta lojas especializadas em destilados, bares com boa carta de drinks e eventos de degustação.
+
+Objetivos chave: Descobrir novos destilados e suas características, aprender sobre harmonização de sabores, aprimorar suas habilidades na criação de drinks e compartilhar suas experiências com amigos.
+
+Como devemos tratá-la: Com cordialidade e atenção, oferecendo um ambiente seguro e acolhedor para explorar seus interesses. Oferecer conteúdo informativo e de fácil acesso, além de uma plataforma interativa para troca de experiências e aprendizado.
+
+Nunca devemos: Pressioná-lo a sair de sua zona de conforto ou fazer algo que não se sinta à vontade. Fazer piadas ou comentários inapropriados sobre seus hobbies.
+
+5. Ariel (51 anos)
+Hobby: churrascos com cervejas variadas e jogar jogos de cartas.
+
+Sonho: viajar para a europa, vizitando os bares famosos, conhecendo as diferentes escolas de cerveja.
+
+Trabalho: policial reformado.
+
+Personalidade: extrovertido, esforçado, solidaria e curiosa.
+
+Objetos e lugares: frequenta constantemente bares, uso do celular bem alto.
+
+Como devemos tratala: tratar bem, oferecer ou informar sobre cervejas de baixa fermentaçao que sejam de dificil encontro no brasil.
+
+Nunca devemos:destrata-lo ou parecer pouco interessado na conversa.
+
+6. Amanda (23 anos)
+   
+Hobby: caseira, chamando poucos amigos para curtir um jogo e assistir streeam.
+
+Sonhos: trabalhar com veterinaria, no qual acabou de concluir a graduaçao.
+
+Trabalho: trabalho em petshops.
+
+Personalidade: introvertida, inteligente, gosta de leitura.
+
+Objetos e lugares: gosta de viajar pelo brasil, conhecer todos os estados, especialmente nordeste.
+
+Objetivo chave: focar na qualidade da cerveja, e nao na quantidade, gosta de cervejas de trigo.
+
+Como devemos tratala: com paciencia e respeito, sem muitas perguntas, e mostrar a vasta lista de cervejas do site.
+
+Numca devemos: ser indiretos, prolongar a conversa, pois pode despertar desinteresse e desconfiança.
+
+## Histórias de usuário
+
+ 
+⦁	Eu como: Gabriela.
+⦁	Quero: entender mais sobre as informações das cervejas que consumo.
+⦁	Porque/para: escolher a cerveja certa para cada ocasião.
+
+⦁	Eu como: Mariana.
+⦁	Quero: descobrir novas cervejas importadas.
+⦁	Porque/para: experimentar sensações e sabores novos.
+
+⦁	Eu como: Eduardo.
+⦁	Quero: descobrir quais cervejas tomei quando viajei para a Bélgica. 
+⦁	Porque/para: relembrar os nomes e estilo para facilitar a compra.
+
+⦁	Eu como: Rafael.
+⦁	Quero: ler a opinião das pessoas sobre as cervejas que gosto.
+⦁	Porque/para: por curiosidade.
+
+⦁	Eu como: Ariel.
+⦁	Quero: ver os dados da cerveja e o público que a consome.
+⦁	Porque/para: os dados vão ser uteis na construção do meu TCC.
+
+⦁	Eu como: Amanda.
+⦁	Quero: ver quais os estilos das cervejas.
+⦁	Porque/para: ajudar na minha produção de cervejas artesanais.
+
+## Requisitos do projeto
+
+Cadastro de Usuário:
+
+Permitir que os usuários se cadastrem no site.
+Opção para login seguro com senha.
+
+Listagem de Cervejas:
+
+Apresentar uma lista de cervejas cadastradas.
+Classificação por tipo de cerveja. Filtros de busca por nome, tipo, país de origem, etc.
+
+Detalhes da Cerveja:
+
+Páginas individuais para cada cerveja com informações detalhadas (álcool por volume, IBU, descrição, etc.).
+Avaliações e comentários dos usuários sobre a cerveja.
+
+Avaliação de Cervejas:
+
+Sistema de avaliação por estrelas para os usuários darem notas às cervejas.
+Possibilidade de deixar comentários e resenhas sobre as cervejas.
+
+Gerenciamento de Usuários:
+
+Perfil do usuário com informações pessoais e histórico de avaliações.
+Recuperação de senha e opções de edição de perfil.
+
+Integração com Redes Sociais:
+
+Opção para os usuários compartilharem suas avaliações e descobertas de cerveja nas redes sociais.
+
+Administração do Site:
+
+Painel de administração para gerenciar usuários, cervejas, avaliações e comentários.
+Capacidade de adicionar, editar ou remover cervejas.
+
+Design Responsivo:
+
+Garantir que o site seja acessível e utilize um design responsivo para diferentes dispositivos (computadores, tablets, smartphones).
+
+Segurança:
+
+Implementar medidas de segurança para proteger os dados dos usuários, como criptografia de senha e prevenção contra ataques de injeção de código.
+
+Performance:
+
+Otimizar o desempenho do site para carregamento rápido das páginas e uma experiência de usuário fluida.
+
+Documentação:
+
+Documentar o código-fonte e o processo de desenvolvimento para facilitar futuras atualizações e manutenções.
+
+## Requisitos funcionais
+
+Requisitos funcionais e não funcionais
+
+Para o desenvolvimento de um aplicativo ou um site, deve-se reunir informações para garantir uma execução rápida e bem-sucedida, por isso, é usado os requisitos funcionais, que descreve a funcionalidade específica que um site deve ter formulado pelo público-alvo ou/e pelo cliente; e requisitos não funcionais que deve ser formulado pelos próprios desenvolvedores para obter maior segurança, desempenho, facilidade de uso e confiabilidade.
+
+RF-01	O site deve permitir o uso de logins para a totalidade de seu conteúdo (para realizar avaliações nas cervejas), para aumentar a segurança.-	Alta
+RF-02	O site deve conter informações sobre a história e produção da cerveja.- Baixa
+RF-03	O site deve conter um menu na página inicial que contenha todos os conteúdos que encontrara. - édia
+RF-04	O site deve permitir seguir diferentes usuários, para acompanhar suas avaliações.- Média
+RF-05	O site deve permitir favoritar as melhores avaliações que encontrar.-	Média
+RF-06	O site deve permitir adicionar comentários nas avaliações.-	Média
+RF-07	O site deve ter filtros de idade para ser utilizado.-	Alta
+RF-08	O site deve ter informações de onde conseguir comprar as cervejas.-	Baixa
+RF-09	O site deve ter frases de moderação ao consumo de bebidas alcoólicas.-	Média
+RF-10	O site deve conter instruções de como fabricar cervejas caseiras.-	Baixa
+RF-11	O site deve conter os dados de contato, para possíveis ligações por problemas.- 	Média
+RF-12	O site deverá ter maneiras de alterar dados cadastrais sem interferência na segurança.-	Alta
+RF-13	O site deve conter notícias sobre as premiações nacionais e internacionais de fabricação e degustação de cervejas. -	Baixa
+RF-14	O site deve conter locais de divulgação de eventos sobre cerveja.-	Baixa
+
+## Requisitos não funcionais
+
+RNF-01	O site deve ser de fácil acesso, em plataformas gratuitas e ser simples para fácil entendimento.-	Alta
+RNF-02	O site deverá ter um uso confortável em telefone celulares, tablets e outros equipamentos moveis.-	Alta
+RNF-03	O site deverá ser simples, direto e chamativo, para facilitar o entendimento e evitar poluição visual.-	Média
+RNF-04	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).-	Alta
+RNF-05	O site deverá ter variados tipos de cerveja, e ser possível a inclusão de informações por parte do usuário, para melhor avaliação.-	Alta
+RNF-06	O site deverá ser seguro e presar por conter informações corretas, sempre revisado por pares para continuar a ser publicado.-	Alta
+RNF-07	O site deve conter a possibilidade de ser executado em inglês.-	Alta
+RNF-08	O site deve ser leve, sem muitas paginas redirecionadas.-	Média
+
+## Restrições
+
+RE-01: O usuário deverá possuir idade legal para consumo de bebidas alcoólicas para poder acessar e usufruir das ferramentas do site. 
+
+RE-02: Textos, imagens e logotipos estão protegidos por direitos autorais e não podem ser distribuídos sem permissão.
+
+RE-03: Avaliações de usuários estão propensas a moderação antes de serem publicadas a comunidade, para endossar o respeito e a relevância da informação.
+
+## Metodologia
+
+A metodologia inclui as ferramentas definidas pela equipe para manter os códigos e outros artefatos, bem como para organizar o time na realização das tarefas do projeto.
+
+## Relação de Ambientes de Trabalho
+
+Os elementos do projeto são criados utilizando diferentes plataformas, e a conexão entre os ambientes e suas finalidades correspondentes é detalhada a seguir.
+
+Repositório de código fonte	GitHub	(https://classroom.github.com/a/yiv_pvDb)
+
+Documentos do Projeto	Canvas	(https://pucminas.instructure.com/)
+
+Projeto de Interface e  Wireframes	FIGMA	(https://www.figma.com/)
+
+Gerenciamen-to do projeto	GitHub	(https://classroom.github.com/a/yiv_pvDb)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
