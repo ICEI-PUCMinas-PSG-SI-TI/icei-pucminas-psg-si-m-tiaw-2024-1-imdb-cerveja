@@ -327,13 +327,14 @@ A metodologia inclui as ferramentas definidas pela equipe para manter os código
 
 Os elementos do projeto são criados utilizando diferentes plataformas, e a conexão entre os ambientes e suas finalidades correspondentes é detalhada a seguir.
 
-Repositório de código fonte	GitHub	(https://classroom.github.com/a/yiv_pvDb)
+Repositório de código fonte	GitHub:	(https://classroom.github.com/a/yiv_pvDb)
 
-Documentos do Projeto	Canvas	(https://pucminas.instructure.com/)
+Documentos do Projeto	Canvas:	(https://pucminas.instructure.com/)
 
-Projeto de Interface e  Wireframes	FIGMA	(https://www.figma.com/)
+Projeto de Interface e  Wireframes	FIGMA:	(https://www.figma.com/)
 
-Gerenciamen-to do projeto	GitHub	(https://classroom.github.com/a/yiv_pvDb)
+Gerenciamento do projeto	Trello:	https://trello.com/b/G1UBHb0h/imbd
+
 
 ## Gestão de código fonte
 
@@ -388,6 +389,10 @@ A identidade visual do site será convidativa, terá um esquema de cores focado 
 ## Fluxo de usuário
 
 (https://imgbox.com/F01Z3aEI)
+
+## Wireframe
+
+
 
 
   
