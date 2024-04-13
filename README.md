@@ -7,7 +7,7 @@ O objetivo principal deste trabalho é um site de avaliações de bebidas alcoó
 * Raphael dos Reis Jamil
 * Kacy Jhony Rezende Parreiras
 * Henrique Fernandes Lopes 
-* Nome completo do aluno 4
+* Diogo Duarte Xavier
 
 ## Professores responsáveis
 
