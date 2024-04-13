@@ -1,6 +1,6 @@
 # Malteflix
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O objetivo principal deste trabalho é um site de avaliações de bebidas alcoólicas que possa trazer mais facilidade e agilidade para os usuários, e também tendo um facil uso e tenha acesso a qualquer pessoa acima de 18 anos.
 
 ## Alunos integrantes da equipe
 
