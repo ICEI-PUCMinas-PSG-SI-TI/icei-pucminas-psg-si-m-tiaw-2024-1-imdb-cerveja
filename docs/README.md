@@ -387,7 +387,7 @@ A identidade visual do site será convidativa, terá um esquema de cores focado 
 
 ## Fluxo de usuário
 
-(https://imgbox.com/gallery/edit/WMWM1zOpaV/CgAicUBpEgE1GekG)
+(https://imgbox.com/F01Z3aEI)
 
 
   
