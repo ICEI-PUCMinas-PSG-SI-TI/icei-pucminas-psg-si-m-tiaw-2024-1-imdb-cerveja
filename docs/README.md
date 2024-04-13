@@ -335,6 +335,58 @@ Projeto de Interface e  Wireframes	FIGMA	(https://www.figma.com/)
 
 Gerenciamen-to do projeto	GitHub	(https://classroom.github.com/a/yiv_pvDb)
 
+## Gestão de código fonte
+
+A equipe optou por adotar o Pull Request Workflow para gerenciar o desenvolvimento do nosso projeto. Esta abordagem oferece uma estrutura flexível e colaborativa para coordenar as contribuições individuais dos membros da equipe, promovendo transparência, revisão de código e integração contínua.
+
+## Gerenciamento do projeto
+
+A equipe adotou o Scrum como fundamento para a elaboração do processo de desenvolvimento.
+
+A equipe está constituía da seguinte forma:
+
+Scrum Master: Kacy Jhony Rezende Parreiras 
+
+Product Owner: Diogo Duarte Xavier
+
+Equipe de Desenvolvimento:
+
+Kacy jhony Rezende parreiras(Desenvolvedor Back End)
+Diogo Duarte(Desenvolvedor Front  End)
+Raphael dos Reis Jamil (Desenvolvedor Front End)
+Henrique Fernandes Lopes(Designer)
+Vitória Boa Vida Faria Rocha(Analista de negócios)
+Vanderley dos Santos Junior (desenvolvedor Back End)
+
+A nossa equipe adotou o método Kanban para organizar e distribuir as funções do projeto, dividindo o processo de desenvolvimento em diversas colunas, sendo elas as etapas do projeto:
+
+Backlog de Demandas: Aqui, são registradas as tarefas a serem trabalhadas, incluindo novas funcionalidades, correções de bugs e melhorias.
+
+Tarefas em Andamento: Aqui, os membros da equipe podem ver quais tarefas estão sendo atualmente desenvolvidas e quem é responsável por cada uma.
+
+Revisão e Testes: Após a conclusão do desenvolvimento, as demandas são movidas para esta coluna para passar por revisão e testes de qualidade. Isso garante que o trabalho atenda aos requisitos e padrões estabelecidos antes de ser considerado pronto para entrega.
+
+Pronto para Entrega: As tarefas aqui estão prontas para serem entregues ao cliente ou usuário final.
+
+Feedback do Cliente: Após a entrega, qualquer feedback do cliente ou usuário é registrado nesta coluna. Isso nos ajuda a entender melhor as necessidades e expectativas do cliente, orientando futuros desenvolvimentos.
+
+Análise e Melhoria Contínua: Aqui, discutimos o que funcionou bem, o que pode ser melhorado e quais ajustes podem ser feitos para otimizar nosso fluxo de trabalho.
+
+
+
+
+## Projeto de interface
+
+A identidade visual do site será convidativa, terá um esquema de cores focado no preto, branco e dourado, remetendo às cores da cerveja e com um bom contraste entre elas, facilitando a leitura e terá um logotipo único e reconhecível. A homepage dará acesso aos vários tipos de cerveja e em cada página haverá um cabeçalho com a logo e o nome da página, redirecionado à homepage, acesso a conta do usuário e os favoritos do usuário.
+
+## Fluxo de usuário
+
+(file:///C:/Users/kacyj/AppData/Local/Microsoft/Windows/INetCache/IE/JZ7M203E/Fluxo_de_Usua%CC%81rios_TIAW[1].pdf)
+
+
+  
+
+
 
 
 
