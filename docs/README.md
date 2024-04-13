@@ -55,4 +55,25 @@ O objetivo do projeto é desenvolver um site interativo que permite que usuário
 
 ## Personas
 
+1. Gabriela (52 anos)
+
+Hobby: Apreciar cervejas artesanais com amigos, cozinhar pratos gourmet.
+
+Sonho: Viajar pelo mundo degustando cervejas e culinárias locais.
+
+Trabalho: Advogada aposentada, agora dedica-se a hobbies e viagens.
+
+Personalidade: Extrovertida, sociável, curiosa, apreciadora de boa comida e bebida.
+
+
+Objetos e lugares: Usa smartphone e tablet para pesquisa, compras online e redes sociais. Frequenta bares especializados, eventos cervejeiros e restaurantes gourmet.
+
+Objetivos chave: Descobrir novas cervejas artesanais, aprender sobre a história e produção de cervejas, compartilhar suas experiências com amigos e familiares.
+
+Como devemos tratá-la: Com respeito e cordialidade, reconhecendo sua experiência e conhecimento. Oferecer conteúdo informativo e de qualidade, além de uma plataforma fácil de usar para avaliações e compartilhamentos.
+
+Nunca devemos: Subestimar seu conhecimento sobre cervejas ou tratá-la como se fosse iniciante. Usar linguagem condescendente ou infantilizada.
+
+
+
 
