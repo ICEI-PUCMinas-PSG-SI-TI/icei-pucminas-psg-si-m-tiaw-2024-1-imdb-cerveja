@@ -352,11 +352,17 @@ Product Owner: Diogo Duarte Xavier
 Equipe de Desenvolvimento:
 
 Kacy jhony Rezende parreiras(Desenvolvedor Back End)
+
 Diogo Duarte(Desenvolvedor Front  End)
+
 Raphael dos Reis Jamil (Desenvolvedor Front End)
+
 Henrique Fernandes Lopes(Designer)
+
 Vitória Boa Vida Faria Rocha(Analista de negócios)
+
 Vanderley dos Santos Junior (desenvolvedor Back End)
+
 
 A nossa equipe adotou o método Kanban para organizar e distribuir as funções do projeto, dividindo o processo de desenvolvimento em diversas colunas, sendo elas as etapas do projeto:
 
@@ -381,7 +387,7 @@ A identidade visual do site será convidativa, terá um esquema de cores focado 
 
 ## Fluxo de usuário
 
-(file:///C:/Users/kacyj/AppData/Local/Microsoft/Windows/INetCache/IE/JZ7M203E/Fluxo_de_Usua%CC%81rios_TIAW[1].pdf)
+(https://imgbox.com/gallery/edit/WMWM1zOpaV/CgAicUBpEgE1GekG)
 
 
   
