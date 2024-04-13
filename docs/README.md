@@ -129,6 +129,7 @@ Como devemos tratá-la: Com cordialidade e atenção, oferecendo um ambiente seg
 Nunca devemos: Pressioná-lo a sair de sua zona de conforto ou fazer algo que não se sinta à vontade. Fazer piadas ou comentários inapropriados sobre seus hobbies.
 
 5. Ariel (51 anos)
+
 Hobby: churrascos com cervejas variadas e jogar jogos de cartas.
 
 Sonho: viajar para a europa, vizitando os bares famosos, conhecendo as diferentes escolas de cerveja.
@@ -165,28 +166,46 @@ Numca devemos: ser indiretos, prolongar a conversa, pois pode despertar desinter
 
  
 ⦁	Eu como: Gabriela.
+
 ⦁	Quero: entender mais sobre as informações das cervejas que consumo.
+
 ⦁	Porque/para: escolher a cerveja certa para cada ocasião.
 
+
 ⦁	Eu como: Mariana.
+
 ⦁	Quero: descobrir novas cervejas importadas.
+
 ⦁	Porque/para: experimentar sensações e sabores novos.
 
+
 ⦁	Eu como: Eduardo.
+
 ⦁	Quero: descobrir quais cervejas tomei quando viajei para a Bélgica. 
+
 ⦁	Porque/para: relembrar os nomes e estilo para facilitar a compra.
 
+
 ⦁	Eu como: Rafael.
+
 ⦁	Quero: ler a opinião das pessoas sobre as cervejas que gosto.
+
 ⦁	Porque/para: por curiosidade.
 
+
 ⦁	Eu como: Ariel.
+
 ⦁	Quero: ver os dados da cerveja e o público que a consome.
+
 ⦁	Porque/para: os dados vão ser uteis na construção do meu TCC.
 
+
 ⦁	Eu como: Amanda.
+
 ⦁	Quero: ver quais os estilos das cervejas.
+
 ⦁	Porque/para: ajudar na minha produção de cervejas artesanais.
+
 
 ## Requisitos do projeto
 
