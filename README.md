@@ -9,6 +9,7 @@ O objetivo principal deste trabalho é um site de avaliações de bebidas alcoó
 * Henrique Fernandes Lopes 
 * Diogo Duarte Xavier
 * Vitória Boa Vida Faria Rocha
+* Vanderley dos Santos Junior
 
 ## Professores responsáveis
 
