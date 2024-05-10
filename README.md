@@ -13,7 +13,7 @@ O objetivo principal deste trabalho é um site de avaliações de bebidas alcoó
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira
 * Katia Adriana Alves Leite de Barros
 
 ## Instruções de utilização
