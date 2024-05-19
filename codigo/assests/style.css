@@ -3,6 +3,7 @@
 body{
     background: rgb(50,32,1);
     background: linear-gradient(90deg, rgba(50,32,1,1) 12%, rgba(250,199,109,1) 97%);
+    height: 100%;
 }
 
 /* Cabeçalho */
@@ -12,7 +13,7 @@ header{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-top: 50px;
+    padding-top: 50px;
     margin-left: 30px;
 }
 
@@ -96,7 +97,6 @@ header{
 
 .text-center{
     margin-top: 50px;
-    color: white;
 }
 
 .text-center .row div{
@@ -106,19 +106,18 @@ header{
     border-radius: 10px;
 }
 
-
-/* Pergunta se tem mais de 18*/
-.hide {
-    display: none
+.text-center .row a{
+    color: white  !important;
+    text-decoration: none;
 }
 
-.modal {
-    position: fixed;
-    top: 10%;
-    left: 50%;
-    z-index: 1050;
-    width: 800px !important;
-    height: 230px !important;
+/* Pergunta se tem mais de 18*/
+
+.aviso .modal {
+    text-align: center;
+    display: block;
+    width: 500px !important;
+    height: 260px !important;
     background-color: #fff;
     border: 1px solid #999;
     border: 1px solid rgba(0,0,0,0.3);
@@ -132,11 +131,16 @@ header{
     -webkit-background-clip: padding-box;
     -moz-background-clip: padding-box;
     background-clip: padding-box;
-    outline: 0
+    z-index: 999999 !important;
 }
 
-.info-container p{
-    display: flex;
+.aviso{
+    background-color: red;
+    height: 100vh;
+    width: 100%;
+    z-index: 9999 !important;
+    background: rgba(0,0,0,0.7);
+    overflow: hidden;
 }
 
 .botao{
@@ -158,9 +162,13 @@ header{
     color: #000;
 }
 
+.hide{
+    display: none !important;
+}
 
-
-
+.normal{
+    background: rgba(0,0,0,0.0) !important;
+}
 
 
 
