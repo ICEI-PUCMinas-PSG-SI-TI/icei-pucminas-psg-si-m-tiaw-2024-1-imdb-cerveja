@@ -10,9 +10,10 @@ label {
     margin-top: 10px;
 }
 input {
-    width: 100%;
+    width: 80%;
     padding: 8px;
     margin-top: 5px;
+    border-radius: 10px;
 }
 button {
     margin-top: 10px;
@@ -46,4 +47,7 @@ li {
 .menu li{
     list-style: none;
     padding: 0px;
+}
+button{
+    border-radius: 10px;
 }

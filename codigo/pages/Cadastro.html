@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/stylecadastro.css">
-    <title>Cadatro</title>
+    <title>Cadastro</title>
     <script src="https://kit.fontawesome.com/c8d41bf338.js" crossorigin="anonymous"></script>
 </head>
 
@@ -34,38 +34,44 @@
         </nav>
       </header>
 
-      <h1 class="titulocadastro">Cadastro de Usuário</h1>
-      <form id="cadastroForm" >
-          <label class="palavradocadastro" for="nome">Nome:</label>
-          <input type="text" id="nome" name="nome" required>
-          
-          <label class="palavradocadastro" for="data">Data de Nascimento:</label>
-          <input type="date" id="data" name="data" required>
-          
-          <label class="palavradocadastro" for="cpf">CPF:</label>
-          <input type="text" id="cpf" name="cpf" required pattern="\d{11}" title="Digite 11 dígitos">
-          
-          <label class="palavradocadastro" for="email">Email:</label>
-          <input type="email" id="email" name="email" required>
-          
-          <label class="palavradocadastro" for="confirmacaoEmail">Confirme o Email:</label>
-          <input type="email" id="confirmacaoEmail" name="confirmacaoEmail" required>
-          
-          <label class="palavradocadastro" for="senha">Senha:</label>
-          <input type="password" id="senha" name="senha" required>
-          
-          <label class="palavradocadastro" for="confirmacaoSenha">Confirme a Senha:</label>
-          <input type="password" id="confirmacaoSenha" name="confirmacaoSenha" required>
-          
-          <label class="palavradocadastro" for="telefone">Telefone:</label>
-          <input type="text" id="telefone" name="telefone" required pattern="\d{10,11}" title="Digite 10 ou 11 dígitos">
-          
-          <button type="submit">Cadastrar</button>
-      </form>
-  
-      <h2 class="palavradocadastro">Cadastros</h2>
-      <ul id="cadastrosList"></ul>
-  
-      <script src="../assets/js/jsoncadastro.js"></script>
-  </body>
-  </html>
+      <div class="container mt-5">
+        <h1 class="titulocadastro text-center">Cadastro de Usuário</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <form id="cadastroForm">
+                    <label class="palavradocadastro" for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" required>
+
+                    <label class="palavradocadastro" for="data">Data de Nascimento:</label>
+                    <input type="date" id="data" name="data" required>
+
+                    <label class="palavradocadastro" for="cpf">CPF:</label>
+                    <input type="text" id="cpf" name="cpf" required pattern="\d{11}" title="Digite 11 dígitos">
+
+                    <label class="palavradocadastro" for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label class="palavradocadastro" for="confirmacaoEmail">Confirme o Email:</label>
+                    <input type="email" id="confirmacaoEmail" name="confirmacaoEmail" required>
+
+                    <label class="palavradocadastro" for="senha">Senha:</label>
+                    <input type="password" id="senha" name="senha" required>
+
+                    <label class="palavradocadastro" for="confirmacaoSenha">Confirme a Senha:</label>
+                    <input type="password" id="confirmacaoSenha" name="confirmacaoSenha" required>
+
+                    <label class="palavradocadastro" for="telefone">Telefone:</label>
+                    <input type="text" id="telefone" name="telefone" required pattern="\d{10,11}" title="Digite 10 ou 11 dígitos">
+
+                    <button type="submit" class="cadastrar btn btn-success w-100 mt-3">Cadastrar</button>
+                </form>
+            </div>
+        </div>
+
+        <h2 class="palavradocadastro text-center mt-5">Cadastros</h2>
+        <ul id="cadastrosList" class="list-unstyled"></ul>
+    </div>
+
+    <script src="../assets/js/jsoncadastro.js"></script>
+</body>
+</html>
