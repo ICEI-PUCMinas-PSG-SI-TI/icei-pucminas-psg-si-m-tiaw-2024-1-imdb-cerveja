@@ -1,0 +1,73 @@
+HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>As mais vendidas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>AS MAIS VENDIDAS</h1>
+    </header>
+    <main>
+        <section class="cervejas">
+            <div class="cerveja">
+                <img src="KAISER.jpeg" alt="Cerveja Kaiser">
+                <h2>Kaiser</h2>
+                <ul class="avaliacao">
+                    <li class="star-icon" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <p>Uma combinação única de água cristalina, lúpulos importados e maltes especiais selecionados nas melhores maltarias do mundo.</p>
+                <p>É uma cerveja Pilsen com 5,3% de álcool por volume, produzida pela empresa cervejeira brasileira Ambev.</p>
+            </div>
+            <div class="cerveja">
+                <img src="HEINEKEN.jpeg" alt="Cerveja Heineken">
+                <h2>Heineken</h2>
+                <ul class="avaliacao">
+                    <li class="star-icon" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <p>A história da cerveja Original começou em 1906, quando um jovem recém-chegado da Alemanha, Henrique Thielen, fundou a Cervejaria Adriática, em Ponta Grossa.</p> <p> É uma cerveja Pale Lager com 5% de álcool por volume, produzida pela empresa cervejeira holandesa Heineken International.</p>
+            </div>
+            <div class="cerveja">
+                <img src="ORIGINAL.jpeg" alt="Cerveja Original">
+                <h2>Original</h2>
+                <ul class="avaliacao">
+                    <li class="star-icon" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <p>Produzida com ingredientes 100% selecionados, água 100% cristalina e respeitando o tempo certo, a Itaipava é uma cerveja clara, leve, saborosa e refrescante.</p> <p>É uma cerveja Pilsen com 5,2% de álcool por volume, produzida pela empresa cervejeira brasileira Ambev.</p>
+            </div>
+            <div class="cerveja">
+                <img src="ITAIPAVA.jpeg" alt="Cerveja Itaipava">
+                <h2>Itaipava</h2>
+                <ul class="avaliacao">
+                    <li class="star-icon" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <p>Produzida com água pura das montanhas, lúpulos selecionados e malte de cevada, a Skol é uma cerveja clara, leve e refrescante.</p>
+                <p>É uma cerveja Pilsen com 4,7% de álcool por volume, produzida pela empresa cervejeira brasileira Ambev.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 MalteFlix</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
