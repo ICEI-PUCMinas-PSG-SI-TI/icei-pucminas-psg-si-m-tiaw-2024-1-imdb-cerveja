@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bootstrap demo</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+<header>
+  <div class="busca-logo">
+    <a class="" href="index.html"><img class="imagem-logo" src="assets/logo malte.png" alt="logo"></a>
+    <div id="divBusca">
+      <input type="text" id="txtBusca" placeholder="Buscar..." />
+      <img class="lupa" src="assets/lupa.webp" id="btnBusca" alt="Buscar" />
+    </div>
+  </div>
+  <nav class="home-etc">
+    <input type="checkbox" id="menuToggle">
+    <label for="menuToggle" class="menu-icon">
+      <i class="fa fa-bars"></i>
+      <i class="fa fa-times-circle"></i>
+    </label>
+    <ul class="menu">
+      <li><a class="fs-3 seçoes p-3" href="#">Home</a></li>
+      <li class="li2"><a class="fs-3 seçoes p-3" href="#"> <i class="fa-regular fa-user"></i> Minha conta</a></li>
+      <li class="li3"><a class="fs-3 seçoes p-3" href="#"> <i class="fa-regular fa-heart"></i> Favoritos</a></li>
+    </ul>
+  </nav>
+</header>
+
+<body>
+
+  <div class="container">
+    <div class="row" >
+      <div class="col-md-6 offset-md-3">
+        <h2 class="text-center">Personalizar Perfil</h2>
+        <form>
+          <!-- <div class="form-group">
+                    <input type="file" class="file-input" id="foto">
+                    <label for="foto" class="file-label">
+                      <i class="fas fa-user-circle file-icon"></i><br> -->
+          <div class="mb-3" id="foto">
+            <label for="fotoPerfil" class="form-label"›Foto de Perfil:</label>
+
+              
+
+              <center><img id="fotoPreview" src="assets/defauly.webp" alt="Preview da foto de perfil" class="mt-2"
+                height="100px"></center>
+                <br>
+                <center> <input class="form-control form-control-sm" id="fotoPerfil" onchange="previewFoto()" type="file" style="width: 120px;"></center>
+
+            </label>
+          </div>
+          <div class="form-group">
+            <label for="nome"></label>
+            <input type="text" class="form-control" id="nome" placeholder="Seu Nome">
+          </div>
+          <div class="form-group">
+            <label for="descricao"></label>
+            <textarea class="form-control mb-5" id="descricao" rows="3"
+              placeholder="Descrição do seu perfil"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary col-2 dark" id="Personalizar" onclick="trocar()">Salvar</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <footer class="container-fluid">
+    <div class="row">
+      <div class="col-12 ">
+        <div class="footer-content">
+          <p>&copy; 2024 </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
