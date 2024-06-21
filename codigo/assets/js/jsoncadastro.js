@@ -20,6 +20,11 @@ document.getElementById('cadastroForm').addEventListener('submit', function(even
         return;
     }
 
+    if (!isValidAge(data)) {
+        alert('Data de nascimento inválida');
+        return;
+    }
+
     const cadastro = {
         nome,
         data,
@@ -45,9 +50,20 @@ function loadCadastros() {
 
 function addCadastroToList(cadastro) {
     const li = document.createElement('li');
-    li.style.color = "white"
+    li.style.color = "white";
     li.textContent = `${cadastro.nome} - ${cadastro.data} - ${cadastro.cpf} - ${cadastro.email} - ${cadastro.telefone}`;
     document.getElementById('cadastrosList').appendChild(li);
+}
+
+function isValidAge(birthdate) {
+    const birthDate = new Date(birthdate);
+    const today = new Date();
+    const age = today.getFullYear() - birthDate.getFullYear();
+    const month = today.getMonth() - birthDate.getMonth();
+    if (month < 0 || (month === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+    }
+    return age >= 18;
 }
 
 window.onload = loadCadastros;

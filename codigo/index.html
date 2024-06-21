@@ -12,10 +12,10 @@
 <body>
   <header class="container-fluid">
     <div class="busca-logo">
-      <a class="" href="index.html"><img class="imagem-logo" src="assets/images/logo malte.png" alt="logo"></a>
+      <a class="" href="cabecalhoheader.html"><img class="imagem-logo" src="img/logoprincipal.png" alt="logo"></a>
       <div id="divBusca">
         <input type="text" id="txtBusca" placeholder="Buscar..." />
-       <img id="btnBusca" class="lupa" src="assets/images/lupa.png" alt="">
+        <img class="lupa" src="img/lupa.png" id="btnBusca" alt="Buscar" />
       </div>
     </div>
     <nav class="home-etc">
@@ -25,25 +25,31 @@
         <i class="fa fa-times-circle"></i>
       </label>
       <ul class="menu">
-        <li><a class="fs-3 seçoes p-3" href="#">Home</a></li>
+        <li><a class="fs-3 seçoes p-3" href="cabecalhoheader.html">Home</a></li>
         <li class="li2"><a class="fs-3 seçoes p-3" href="#"> <i class="fa-regular fa-user"></i> Minha conta</a></li>
-        <li class="li3"><a class="fs-3 seçoes p-3" href="#"> <i class="fa-regular fa-heart"></i> Favoritos</a></li>
+        <li class="li3"><a class="fs-3 seçoes p-3" href="areadefavoritos.html"> <i class="fa-regular fa-heart"></i> Favoritos</a></li>
+         
       </ul>
+      <div class="oficial ">
+        <iconify-icon icon="wpf:security-checked" class="cerveja" ></iconify-icon> <p class="checked ">Site Oficial </p>
+      </div>
     </nav>
   </header>
 
-  <div class="container text-center">
-    <div class="row gap-5">
-      <div class="col palavracategoria">
-        Cerveja Ale
-      </div>
-      <div class="col palavracategoria">
-        Cerveja Lager
-      </div>
-      <div class="col palavracategoria">
-        Cerveja Lambic
+  <div class="container">
+    <div class="container text-center">
+      <div class="row gap-3">
+        
+        <div class="col">
+          Cerveja Lager
+        </div>
+       
+        <div class="col">
+          Cerveja Ale
+        </div>
       </div>
     </div>
+  </div>
  
  
     <h1>Adicionar cervejas</h1>
