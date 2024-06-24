@@ -6,14 +6,9 @@ body {
   background-size: cover !important;
   backdrop-filter: blur(5px);
   height: 1100px !important;
-
   padding-bottom: 45px;
-  /* Ajuste para o tamanho do footer */
   position: relative;
-  /* Importante para posicionamento absoluto do footer */
 }
-
-/* ... seus outros estilos ... */
 
 footer {
   background-color: #333;
@@ -23,12 +18,9 @@ footer {
   text-align: center;
   width: 100%;
   position: absolute;
-  /* Alterado para 'absolute' */
   bottom: 0;
-  /* Alinha o footer ao fundo da página */
   left: 0;
   height: 45px;
-  /* Ajuste a altura conforme necessário */
 }
 
 .botaocomentar{
@@ -155,16 +147,12 @@ footer {
   justify-content: center;
   gap: 8px;
   flex: 1;
-  /* Para ocupar a mesma largura */
   max-width: 200px;
-  /* Largura máxima para controle */
   height: 50px;
-  /* Altura definida para os botões */
 }
 
 .btn-custom i {
   font-size: 1.2em;
-  /* Tamanho do ícone */
 }
 
 .btn-custom:hover {

@@ -10,7 +10,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     
     if (usuarioValido) {
         localStorage.setItem('isLoggedIn', true);
-        localStorage.setItem('usuarioLogado', JSON.stringify(usuarioValido)); // Armazena o usuário logado
+        localStorage.setItem('usuarioLogado', JSON.stringify(usuarioValido));
         window.location.href = 'profile.html';
     } else {
         alert('E-mail ou senha incorretos.');

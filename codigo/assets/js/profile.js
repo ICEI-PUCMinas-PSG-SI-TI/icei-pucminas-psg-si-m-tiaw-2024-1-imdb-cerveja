@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     if (localStorage.getItem('isLoggedIn') !== 'true') {
-        window.location.href = 'login.html';
+        window.location.href = '../../pages/login.html.html';
         return;
     }
     

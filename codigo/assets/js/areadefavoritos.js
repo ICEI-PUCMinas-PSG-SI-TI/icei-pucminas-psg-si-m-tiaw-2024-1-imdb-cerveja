@@ -41,14 +41,12 @@ function createFavoriteItem(item) {
     favoritesList.appendChild(favoriteItemElement);
 }
 
-// Display all favorite items on page load
 favoriteItems.forEach(item => createFavoriteItem(item));
 
-// Filter favorite items based on search input
 searchInput.addEventListener('input', () => {
     const searchTerm = searchInput.value.toLowerCase();
 
-    favoritesList.innerHTML = ''; // Clear existing favorites
+    favoritesList.innerHTML = '';
 
     favoriteItems.filter(item => {
         return item.title.toLowerCase().includes(searchTerm) ||
@@ -57,7 +55,6 @@ searchInput.addEventListener('input', () => {
     }).forEach(item => createFavoriteItem(item));
 });
 
-// Add event listener to favorite item elements for details
 favoritesList.addEventListener('click', (event) => {
     const clickedElement = event.target.closest('.favorito-item');
     if (!clickedElement) return;
@@ -66,7 +63,6 @@ favoritesList.addEventListener('click', (event) => {
     const selectedItem = favoriteItems.find(item => item.id === parseInt(itemId));
 
     if (selectedItem) {
-        // Show a modal or panel with the selected item's details
         alert(`Detalhes do item ${selectedItem.title}:\n\n` +
               `Descrição: ${selectedItem.description}\n` +
               `Gênero: ${selectedItem.genre}\n` +
