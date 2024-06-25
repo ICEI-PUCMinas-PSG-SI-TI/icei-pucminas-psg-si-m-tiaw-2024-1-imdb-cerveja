@@ -23,7 +23,7 @@
   </div>
   <header class="container-fluid">
     <div class="busca-logo">
-      <a class="" href="index.html"><img class="imagem-logo" src="assets/images/logo malte.png" alt="logo"></a>
+      <a class="" href="index.html"><img class="imagem-logo" src="assets/images/MalteflixLogo.png" alt="logo"></a>
       <div id="divBusca">
         <input type="text" id="txtBusca" placeholder="Buscar..." />
         <img class="lupa" src="assets/images/lupa.png" id="btnBusca" alt="Buscar" />
@@ -177,7 +177,7 @@
          IBU: ${objDados.cerveja[i].ibu}.<br>
          ABV: ${objDados.cerveja[i].abv}.<br>
          NOTA: ${valor.toFixed(2)}
-       <ul class="avaliacao">${estrelaprint}</ul><a href="avaliar.html?id=${objDados.cerveja[i].id}"><button id="avaliar" class="butaoavaliar">avaliar cerveja</button></a></div></div>`
+       <ul class="avaliacao">${estrelaprint}</ul><a href="pages/avaliar.html?id=${objDados.cerveja[i].id}"><button id="avaliar" class="butaoavaliar">avaliar cerveja</button></a></div></div>`
     }
 
     tela.innerHTML = strHtml;

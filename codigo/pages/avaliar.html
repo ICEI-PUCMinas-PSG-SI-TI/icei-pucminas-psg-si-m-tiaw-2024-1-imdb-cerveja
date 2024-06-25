@@ -13,7 +13,7 @@
 </head>
 <body> <header class="container-fluid">
     <div class="busca-logo">
-      <a class="" href="../index.html"><img class="imagem-logo" src="../assets/images/logo malte.png" alt="logo"></a>
+      <a class="" href="../index.html"><img class="imagem-logo" src="../assets/images/MalteflixLogo.png" alt="logo"></a>
       <div id="divBusca">
         <input type="text" id="txtBusca" placeholder="Buscar..." />
         <img class="lupa" src="../assets/images/lupa.png" id="btnBusca" alt="Buscar" />
@@ -85,14 +85,14 @@
     let objDados = leDados ();
 
     for (i=0; i< 1; i++) {
-        strHtml += ` <table><tr><td><div id="png1"><img src="${objDados.cerveja[id-1].imagem}"></div></td><td><div id= "titulocerveja1">  ${objDados.cerveja[id-1].name.toUpperCase()}<br></div><div id="descricao">CURIOSIDADES:  ${objDados.cerveja[id-1].description.toUpperCase()}</div><br><div id="printinfo1"> NOME: ${objDados.cerveja[id-1].name.toUpperCase()}.<br>NACIONALIDADE: ${objDados.cerveja[id-1].nacionalidade.toUpperCase()}.<br>ESTILO: ${objDados.cerveja[id-1].estilo.toUpperCase()}.<br>FERMENTAÇÃO: ${objDados.cerveja[id-1].fermentacao.toUpperCase()}.<br>IBU: ${objDados.cerveja[id-1].ibu}.<br>ABV: ${objDados.cerveja[id-1].abv}.<br>
+        strHtml += ` <table><tr><td><div id="png1"><img src="../${objDados.cerveja[id-1].imagem}"></div></td><td><div id= "titulocerveja1">  ${objDados.cerveja[id-1].name.toUpperCase()}<br></div><div id="descricao">CURIOSIDADES:  ${objDados.cerveja[id-1].description.toUpperCase()}</div><br><div id="printinfo1"> NOME: ${objDados.cerveja[id-1].name.toUpperCase()}.<br>NACIONALIDADE: ${objDados.cerveja[id-1].nacionalidade.toUpperCase()}.<br>ESTILO: ${objDados.cerveja[id-1].estilo.toUpperCase()}.<br>FERMENTAÇÃO: ${objDados.cerveja[id-1].fermentacao.toUpperCase()}.<br>IBU: ${objDados.cerveja[id-1].ibu}.<br>ABV: ${objDados.cerveja[id-1].abv}.<br>
           <ul class="avaliacao">
               <li class="star-icon ativo" data-avaliacao="1"></li>
               <li class="star-icon" data-avaliacao="2"></li>
               <li class="star-icon" data-avaliacao="3"></li>
               <li class="star-icon" data-avaliacao="4"></li>
               <li class="star-icon" data-avaliacao="5"></li>
-            </ul><br><a href="inicio.html"><button id="avaliar">avaliar cerveja</button></a></div>  </td></tr></table>`
+            </ul><br><a href="../index.html"><button id="avaliar">avaliar cerveja</button></a></div>  </td></tr></table>`
             
     }
 

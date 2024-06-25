@@ -2,11 +2,10 @@ const searchInput = document.getElementById('pesquisa-input');
 const favoritesList = document.querySelector('.lista-favoritos');
 
 
-// Function to create and display favorite item elements
 function createFavoriteItem(item) {
     const favoriteItemElement = document.createElement('div');
     favoriteItemElement.classList.add('favorito-item');
-    favoriteItemElement.setAttribute('data-id', item.id); // Add data-id attribute
+    favoriteItemElement.setAttribute('data-id', item.id); 
 
     const imageElement = document.createElement('img');
     imageElement.src = item.image;

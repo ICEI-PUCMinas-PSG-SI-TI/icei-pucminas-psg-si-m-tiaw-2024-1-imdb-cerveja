@@ -1,7 +1,7 @@
 body {
   width: 100%;
   margin: 0 auto !important;
-  background-image: url(img/carrosel2.jpg) !important;
+  background-image: url(../images/carrosel2.jpg) !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   backdrop-filter: blur(5px);
@@ -34,7 +34,7 @@ footer {
 }
 
 .botoes{
-  background-image: url(img/carrosel3.jpg) !important;
+  background-image: url(../images/carrosel3.jpg) !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   height: 400px !important;

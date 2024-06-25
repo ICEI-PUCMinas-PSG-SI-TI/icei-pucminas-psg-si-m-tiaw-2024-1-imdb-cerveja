@@ -19,11 +19,7 @@
 <body>
   <header class="container-fluid">
     <div class="busca-logo">
-      <a class="" href="../index.html"><img class="imagem-logo" src="../assets/images/logo malte.png" alt="logo"></a>
-      <div id="divBusca">
-        <input type="text" id="txtBusca" placeholder="Buscar..." />
-        <img class="lupa" src="../assets/images/lupa.png" id="btnBusca" alt="Buscar" />
-      </div>
+      <a class="" href="../index.html"><img class="imagem-logo" src="../assets/images/MalteflixLogo.png" alt="logo"></a>
     </div>
     <nav class="home-etc">
       <input type="checkbox" id="menuToggle">
@@ -32,7 +28,7 @@
         <i class="fa fa-times-circle"></i>
       </label>
       <ul class="menu">
-        <li><a class="fs-3 seçoes p-3" href="../i.html">Home</a></li>
+        <li><a class="fs-3 seçoes p-3" href="../index.html">Home</a></li>
         <li class="li2"><a class="fs-3 seçoes p-3 conta" href=""> <i class="fa-regular fa-user"></i> Minha
             conta</a></li>
         <li class="li3"><a class="fs-3 seçoes p-3 favorito" href=""> <i class="fa-regular fa-heart"></i>
@@ -95,7 +91,7 @@
                   estrelaprint += `<li class="star-icon1 ativo"></li> `;
               }
               strHtml += `
-              <div id="total" style="width: 18rem;"><div id="png"><img src="${cerveja.imagem}" class="imagemcard"></div><br> <div id= "titulocerveja">  ${cerveja.name.toUpperCase()}<br>
+              <div id="total" style="width: 18rem;"><div id="png"><img src="../${cerveja.imagem}" class="imagemcard"></div><br> <div id= "titulocerveja">  ${cerveja.name.toUpperCase()}<br>
                  </div><div id="printinfo"><br>
                    NACIONALIDADE: ${cerveja.nacionalidade.toUpperCase()}.<br>
                    ESTILO: ${cerveja.estilo.toUpperCase()}.<br>
