@@ -4,12 +4,12 @@ if (minhaConta) {
         event.preventDefault();
         const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
         if (isLoggedIn) {
-            window.location.href = '../../pages/profile.html';
+            window.location.href = 'pages/profile.html';
         } else {
-            window.location.href = '../../pages/login.html';
+            window.location.href = 'pages/login.html';
         }
     });
-};
+}
 
 const meusFavoritos = document.querySelector('.favorito');
 if (meusFavoritos) {
@@ -17,12 +17,12 @@ if (meusFavoritos) {
         event.preventDefault();
         const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
         if (isLoggedIn) {
-            window.location.href = '../../pages/areadefavoritos.html';
+            window.location.href = 'pages/areadefavoritos.html';
         } else {
-            window.location.href = '../../pages/login.html';
+            window.location.href = 'pages/login.html';
         }
     });
-};
+}
 
 const top8Cervejas = document.querySelector('.top8c');
 if (top8Cervejas) {
@@ -30,9 +30,9 @@ if (top8Cervejas) {
         event.preventDefault();
         const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
         if (isLoggedIn) {
-            window.location.href = '../../pages/cervejasavaliadas.html';
+            window.location.href = 'pages/cervejasavaliadas.html';
         } else {
-            window.location.href = '../../pages/login.html';
+            window.location.href = 'pages/login.html';
         }
     });
-};
+}
